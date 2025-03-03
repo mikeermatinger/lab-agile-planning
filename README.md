@@ -1,2 +1,2 @@
-# lab-agile-planning
-This repository contains the lab for agile planning
+# NACS agile-planning
+This repository contains the agile planning for NACS VIDEO GAMES. 
